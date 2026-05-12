@@ -1,0 +1,7 @@
+streamlit
+pandas
+scikit-learn
+langchain-chroma
+langchain-google-genai
+langchain-core
+python-dotenv

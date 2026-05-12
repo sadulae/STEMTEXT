@@ -1,0 +1,182 @@
+science G-10 P-I E
+1. Living tissues                              01 
+    
+1.1 Plant tissues        01
+1.2 Animal tissues        10
+2. Photosynthesis                                       20 
+    
+2.1 Factors that affect photosynthesis      21
+2.2 Products of photosynthesis      22
+2.3 Importance of photosynthesis                            28
+3.1   Type of mixtures                                         30 
+3.2   Composition of mixtures      40         
+3.3   Separation of compounds in mixtures     52
+3. Mixtures                               30
+4.1   Mechanical Waves       73
+4.2   Electromagnetic Waves       80
+4.3   Sound          87
+4. Waves and their applications         72
+5. Geometrical Optics                   105 
+5.1			Reflection	of	light																													105
+5.2   Curved (Spherical) Mirrors                 108
+5.3   Refraction of Light                                119
+5.4   Lenses                    126
+x
+6. Biological processes in human body                         143 
+   
+6.1 Process of food digestion       143
+6.2 Process of respiration       150
+6.3 Process of excretion                                                   157
+6.4 Process of blood circulation      163
+6.5 Coordination and homeostasis in human                                      172
+7. Acids, bases and salts                     190
+7.1   Acids                                           190    
+7.2   Bases                                                      193
+7.3   Salts                                         197
+7.4   Neutralisation         198
+8.  Heat changes associated with chemical reactions                202
+
+science G-10 P-II E
+
+13. The world of life 01
+
+13.1 Classification of organisms 01
+13.2 Nomenclature of organisms  24
+
+
+
+
+
+14. Continuity of life 27
+14.1 Reproduction 27
+14.2 Reproduction of plants 28
+14.3 Reproduction of man 47
+14.4 Sexually transmitted diseases 58
+
+15. Hydrostatic pressure and its applications 63
+15.1 Pressure 63
+15.2 Hydrostatic pressure 64
+15.3 Transmission of pressure through liquids 68
+15.4 Pressure due to gases 71
+
+16. Changes in matter 86
+
+16.1 Chemical changes 87
+16.2 Chemical equations 91
+16.3 Reactivity of metals 94
+16.4 Activity series 99 
+16.5 Gases- Their preparation, properties and uses 103
+
+17. Rate of reactions 115
+
+17.1 Factors that affect the rate of reactions 116
+
+
+18. Work, energy and power          125
+
+18.1  Work         125 
+18.2 Energy         127
+18.3 Power         136
+
+19. Current electricity         140
+19.1  Static electricity and current electricity      140
+19.2  Electricity flowing through conductors     143
+19.3  Potential difference and the electromotive force    146
+19.4  Relationship between the current following through a conductor 
+          and potential difference accross the conductor    149
+19.5 Factors affecting the resistance of a conductor    152
+19.6 Resistors         154
+19.7 Combination of resistors       161
+20. Inheritance          169
+20.1  Diversity among organisms      169
+20.2  Mendel's experiments about inheritance    174
+20.3  Basic concepts of genetics      179
+20.4  Heredity of human       182
+20.5  Sex determination of human      182
+20.6  Human inherited disorders      184
+20.7  Genetic engineering       188
+
+science G-11  P-I E
+1. Living tissues                              01 
+    
+1.1 Plant tissues        01
+1.2 Animal tissues        10
+2. Photosynthesis                                       20 
+    
+2.1 Factors that affect photosynthesis      21
+2.2 Products of photosynthesis      22
+2.3 Importance of photosynthesis                            28
+3.1   Type of mixtures                                         30 
+3.2   Composition of mixtures      40         
+3.3   Separation of compounds in mixtures     52
+3. Mixtures                               30
+4.1   Mechanical Waves       73
+4.2   Electromagnetic Waves       80
+4.3   Sound          87
+4. Waves and their applications         72
+5. Geometrical Optics                   105 
+5.1			Reflection	of	light																													105
+5.2   Curved (Spherical) Mirrors                 108
+5.3   Refraction of Light                                119
+5.4   Lenses                    126
+6. Biological processes in human body                         143 
+   
+6.1 Process of food digestion       143
+6.2 Process of respiration       150
+6.3 Process of excretion                                                   157
+6.4 Process of blood circulation      163
+6.5 Coordination and homeostasis in human                                      172
+7. Acids, bases and salts                     190
+7.1   Acids                                           190    
+7.2   Bases                                                      193
+7.3   Salts                                         197
+7.4   Neutralisation         198
+8.  Heat changes associated with chemical reactions                202
+
+science G-11  P-II E
+
+9.  Heat             1
+9.1 Temperature          1  
+9.2 Heat          6   
+9.3 Change of state of matter      12
+9.4 Thermal expansion        17
+9.5 Heat transfer         21
+
+10.  Power and Energy of  Electric Appliances                         32
+10.1 Power output of an electric appliance     33   
+10.2 Electric energy consumed by electric appliances    34   
+10.3			Efficiency	of	electric	appliances	and	conserving	power		35
+10.4 Home electric circuits       36
+10.5 Measuring electric energy in kilowatt hours    46
+
+11.  Electronics             50
+11.1 Introduction            50
+11.2 p – n Junction          53   
+11.3 p-n Junction diode         57  
+11.4	Rectification	of	Alternating	Currents						57
+11.5 Transistors          66
+
+12.  Electrochemistry          79 
+12.1 Electrochemical cells                  79 
+12.2 Electrolysis        86         
+12.3    Corrosion of metals       100             
+
+13.  Electromagnetism and Electromagnetic Induction              115
+13.1 Magnetism          115 
+13.2 Magnetic effect of a current        117
+13.3   Electromagnetic induction      131
+
+14. Hydrocarbons and Their Derivatives 151
+14.1 Hydrocarbons  151             
+14.2     Derivatives of ethene    157    
+14.3 Polymers  158
+
+      
+
+15.1 Organizational levels and interactions of biosphere 167    
+15.2  Mechanisms involve in maintaining the equilibrium of ecosystems     172         
+
+15.3 Different environmental pollutants and their effects                             180
+15.4 The factors that affect the life style of human and problems created    196
+15.5 Sustainable development and environmental management   201
+                              
