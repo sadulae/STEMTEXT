@@ -1,7 +1,8 @@
 streamlit
 pandas
 scikit-learn
-langchain-chroma
+chromadb==0.4.24
+langchain-chroma==0.1.4
 langchain-google-genai
 langchain-core
 python-dotenv
