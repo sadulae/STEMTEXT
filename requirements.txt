@@ -5,4 +5,3 @@ langchain-chroma
 langchain-google-genai
 langchain-core
 python-dotenv
-protobuf<5.0.0
